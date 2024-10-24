@@ -1,6 +1,6 @@
 Project Report: Redbus Data Scraping with Selenium & Streamlit Application
 1. Introduction
-The goal of this project is to scrape bus travel data from the Redbus website, focusing on routes, schedules, prices, and seat availability. This data will be stored in a SQL database and presented through a user-friendly Streamlit application, allowing users to filter and interact with the data efficiently.
+The goal of this project is to scrape bus travel data from the Redbus website, focusing on routes, schedules, prices, and seat availability. This data will be stored in a mySQL database and presented through a user-friendly Streamlit application, allowing users to filter and interact with the data efficiently.
 
 2. Approach
 2.1 Data Scraping
